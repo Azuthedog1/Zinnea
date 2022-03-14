@@ -1,0 +1,35 @@
+body{
+  background-color: wheat;
+  }
+
+h1{
+  color: #6050dc; /* Majorelle Blue */
+  margin-bottom: -25px;
+}
+
+h2{
+	color: black;	
+}
+
+h3{
+	color: #414a4c; /* Outer Space */
+}
+
+h4{
+	font-size: 90%;
+	color: #644117; /* Pullman Brown */
+}
+
+p{
+  color: crimson; 
+  font-size: 125%;
+}
+
+img.resize{
+  max-width: 75%;
+  max-height: 75%;
+}
+img.resizeLogo{
+	max-width: 10%;
+	max-height: 10%;
+}
