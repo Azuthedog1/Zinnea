@@ -1,1 +1,1 @@
-# https://azuthedog1.github.io/Zinnea/
+# https://azuthedog1.github.io/Zinnia/
