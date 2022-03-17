@@ -26,9 +26,10 @@ p{
 }
 
 img.resize{
-  max-width: 75%;
-  max-height: 75%;
+  max-width: 200%;
+  max-height: 200%;
 }
+
 img.resizeLogo{
 	max-width: 10%;
 	max-height: 10%;
